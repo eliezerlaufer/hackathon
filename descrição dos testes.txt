@@ -1,0 +1,8 @@
+teste1: apenas um destino, cargas válidas, um caminhão para cada tipo de carga com ampla capacidade
+teste2: dois destinos, inclui cargas proibidas e caminhões com ampla capacidade
+teste3: cenário normal com vários destinos, todos os tipos de cargas e caminhões (inclusive cargas proibidas e carros de passeio), volume razoável de dados
+teste4: mesmo caso do teste3, mas com um volume consideravelmente maior de dados
+teste5: mais caminhões do que itens
+teste6: arquivos no formato correto, mas com dados inesperados (ex.: peso negativo, capacidade do caminhão negativa, tipo de carga não existente, dados de caminhão no arquivo de produto)
+teste7: arquivos num formato inválido (ex.: ZIP, HTML, arquivo vazio)
+teste8: volume grande de dados, alguns arquivos inválidos ou com dados inesperados no meio (aproximadamente 25% dos arquivos são lixo)
